@@ -1,0 +1,9 @@
+{
+  "name": "brand-design-system",
+  "version": "1.0.0",
+  "description": "品牌设计规范助手 - 集成 VoltAgent awesome-design-md 仓库",
+  "author": "laixialun",
+  "license": "MIT",
+  "homepage": "https://github.com/laixialun/brand-design-system",
+  "keywords": ["brand", "design", "design-system", "apple", "stripe", "figma", "style-guide"]
+}
