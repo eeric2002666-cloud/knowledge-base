@@ -1,0 +1,9 @@
+{
+  "name": "llm-wiki-knowledge-base",
+  "version": "1.0.0",
+  "description": "基于 Karpathy LLM Wiki 模式的个人知识库管理系统",
+  "author": "laixialun",
+  "license": "MIT",
+  "homepage": "https://github.com/laixialun/knowledge-base",
+  "keywords": ["knowledge", "wiki", "llm", "rag", "knowledge-base"]
+}
